@@ -1,3 +1,3 @@
 # Data-structure-Algorithms
 
-Scripts for fundamental algorithms
+Scripts for data structure and algorithms
