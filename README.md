@@ -1,3 +1,30 @@
 # Data-structure-Algorithms
 
-Scripts for data structure and algorithms
+Scripts for implementing data structure and algorithms in python 
+
+## Data Structures
+* arrays
+* linked list
+* queue and stack
+* hash 
+* trees 
+* graphs 
+
+
+## Algorithms
+* searching
+* sorting
+* graph algorithms
+* trees
+* hashing 
+
+
+## Algorithm Paradigms
+* divide and conquer
+* dynamic programming
+* greedy algorithm
+* linear programming
+
+
+## Additionals
+* convex optimization 
