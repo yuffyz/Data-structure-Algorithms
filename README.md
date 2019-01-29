@@ -1,4 +1,4 @@
-# Data-structure-Algorithms
+# Data Structure & Algorithms
 
 Scripts for implementing data structure and algorithms in python 
 
@@ -26,5 +26,5 @@ Scripts for implementing data structure and algorithms in python
 * linear programming
 
 
-## Additionals
+## Others
 * convex optimization 
