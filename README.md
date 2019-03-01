@@ -1,6 +1,6 @@
 # Data Structure & Algorithms
 
-Scripts for implementing data structure and algorithms in python 
+Codebook for implementing data structure and algorithms
 
 ## Data Structures
 * arrays
